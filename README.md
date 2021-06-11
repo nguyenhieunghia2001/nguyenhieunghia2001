@@ -1,11 +1,2 @@
-### Hi there 👋
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-var s = "JavaScript syntax highlighting";
-alert(s);
+# Welcome, I've been expecting you.
+![](./really-cool-banner.svg)

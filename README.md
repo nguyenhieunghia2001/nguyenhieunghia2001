@@ -8,8 +8,6 @@
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100020401263979)
 
 <!--  -->
-### My stars
-<p align="center">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhieunghia2001&show_icons=true&theme=radical)
-</p>
+### My stars:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhieunghia2001&show_icons=true&theme=radical)
 

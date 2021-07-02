@@ -1,6 +1,12 @@
-### Hi there, I'm Nghia - [Nghiadx][website] 
+# Hi there, I'm Nghia
 
-## I'm Student and Developer!
+## I'm student
+
+### DREAM BIG :3
+```
+Dám ước mơ, dám thực hiện
+```
+
 
 <!--  -->
 ### My stars:

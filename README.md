@@ -3,10 +3,6 @@
 ## I'm student
 
 ### DREAM BIG :3
-```
-Dám ước mơ, dám thực hiện
-```
-
 
 <!--  -->
 ### My stars:

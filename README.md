@@ -2,7 +2,9 @@
 
 ## I'm student
 
-### DREAM BIG :3
+<p align="center">
+  BIG DREAM 😋
+  </p>
 
 <!--  -->
 ### My stars:

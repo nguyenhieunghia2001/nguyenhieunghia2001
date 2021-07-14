@@ -7,5 +7,6 @@
 <!--  -->
 ### My stars:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhieunghia2001&show_icons=true&theme=radical) -->
+<p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenhieunghia2001&theme=vue)
-
+</p>

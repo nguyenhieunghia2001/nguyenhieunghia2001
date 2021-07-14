@@ -10,4 +10,4 @@
 <!-- <p align="center"> -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenhieunghia2001&theme=vue) -->
 <!-- </p> -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyenhieunghia2001)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyenhieunghia2001&theme=gruvbox_duo)](https://git.io/streak-stats)

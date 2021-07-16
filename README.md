@@ -1,6 +1,5 @@
-# <p align="center">Hey</p> 
-
-<p align="center">I'm Nghia</p> 
+# Heyo, Devs 
+I'm Nghia
 
 ## I'm student
 

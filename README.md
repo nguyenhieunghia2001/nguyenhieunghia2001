@@ -1,4 +1,6 @@
-# Hi there, I'm Nghia
+# <p align="center">Hey</p> 
+
+<p align="center">I'm Nghia</p> 
 
 ## I'm student
 

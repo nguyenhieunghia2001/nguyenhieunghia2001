@@ -1,8 +1,6 @@
 # Heyo, Devs 
 I'm Nghia
 
-## I'm student
-
 <p align="center">
   BIG DREAM 😋
   </p>

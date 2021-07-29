@@ -1,11 +1,9 @@
 # Heyo, Devs 
 
 <p align="center">
-I'm Nghia  
-</p>
-<p align="center">
   BIG DREAM 😋
-</p>
+  </p>
+
 <!--  -->
 ### My stars:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhieunghia2001&show_icons=true&theme=radical) -->
